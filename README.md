@@ -10,4 +10,4 @@ My solutions of **Advent Code 2020** edition using **C#** language.
 | Day 5 | https://adventofcode.com/2020/day/5  | :heavy_minus_sign: | :heavy_minus_sign: |
 | [Day 6](https://github.com/alan-garcia/advent-of-code-2020/tree/main/AdventOfCode2020/Day6) | https://adventofcode.com/2020/day/6  | :white_check_mark: | :x: |
 | [Day 7](https://github.com/alan-garcia/advent-of-code-2020/tree/main/AdventOfCode2020/Day7) | https://adventofcode.com/2020/day/7  | :white_check_mark: | :x: |
-
+| [Day 8](https://github.com/alan-garcia/advent-of-code-2020/tree/main/AdventOfCode2020/Day8) | https://adventofcode.com/2020/day/8  | :white_check_mark: | :x: |
